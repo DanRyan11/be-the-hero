@@ -45,17 +45,3 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
     <img alt="" title="" src="imgs/print-insomnia.png">
 </p>
 
-Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração das versões web e mobile rodando localmente.
-
----
-
-**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
-
-**Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
-
-## Licença
-[MIT](https://github.com/christyanbrayan/be-the-hero/blob/master/LICENSE)
-
----
-
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/christyanbrayan" target="_blank">christyanbrayan</a> </h4>
